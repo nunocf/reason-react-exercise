@@ -8,3 +8,8 @@ erl_crash.dump
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+/**/node_modules
+/assets/.merlin
+/assets/.bsb.lock
+/**/.DS_Store
+/assets/lib/*
